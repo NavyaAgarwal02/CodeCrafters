@@ -1,7 +1,7 @@
 # CodeCrafters | Build, Run & Save Code
 
 ## 🚀 Demo
-[![CodeCrafters](https://your-demo-image-link.png)](https://your-demo-link.com)
+[![CodeCrafters]<img src="/src/assets/codecrafters.png" alt="Home Page"/>](https://code-crafters-8b4puvvyk-navya-agarwal-projects.vercel.app/)
 
 ## 🎯 Project Objective
 
@@ -31,7 +31,7 @@ CodeCrafters is an **online IDE** that allows users to write, execute, and save 
 | **CodeMirror** | Code Editor |
 
 ## 🌍 Live Project
-[🔗 CodeCrafters Live](https://your-live-project-link.com)
+[🔗 CodeCrafters Live](https://code-crafters-8b4puvvyk-navya-agarwal-projects.vercel.app/)
 
 ## 📚 References
 - [Judge0 CE API](https://rapidapi.com/judge0-official/api/judge0-ce)
