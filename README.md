@@ -1,7 +1,7 @@
 # CodeCrafters | Build, Run & Save Code
 
 ## 🚀 Demo
-[![CodeCrafters]<img src="/src/assets/codecrafters.png" alt="Home Page"/>](https://code-crafters-8b4puvvyk-navya-agarwal-projects.vercel.app/)
+[<img src="/src/assets/codecrafters.png" alt="Home Page"/>](https://code-crafters-8b4puvvyk-navya-agarwal-projects.vercel.app/)
 
 ## 🎯 Project Objective
 
