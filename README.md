@@ -31,7 +31,7 @@ CodeCrafters is an **online IDE** that allows users to write, execute, and save 
 | **CodeMirror** | Code Editor |
 
 ## 🌍 Live Project
-[🔗 CodeCrafters Live](https://code-crafters-8b4puvvyk-navya-agarwal-projects.vercel.app/)
+🔗[CodeCrafters Live](https://code-crafters-8b4puvvyk-navya-agarwal-projects.vercel.app/)
 
 ## 📚 References
 - [Judge0 CE API](https://rapidapi.com/judge0-official/api/judge0-ce)
@@ -44,7 +44,7 @@ CodeCrafters is an **online IDE** that allows users to write, execute, and save 
 
 1. **Clone the repository**
    ```sh
-   git clone https://github.com/NavyaAgarwal02/codecrafters.git
+   git clone https://github.com/NavyaAgarwal02/CodeCrafters.git
    cd codecrafters
    ```
 2. **Install dependencies**
